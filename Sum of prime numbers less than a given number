@@ -1,0 +1,12 @@
+#Take input from user
+upto= int (input("find sum of prime numbers upto: "))
+sum = 0
+for num in range (2, upto + 1):
+i = 2
+for num in range (2, num):
+i = num
+break;
+#if the number is prime then add it
+if i is not num:
+sum += num
+print("\n sum of all prime numbers upto", upto, "i",sum)
