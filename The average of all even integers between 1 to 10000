@@ -1,0 +1,8 @@
+int j=0;
+int i=2;
+while (i<=10000)
+{
+sum += I
+i = i+2
+}
+float average = sum/j
